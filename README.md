@@ -16,5 +16,5 @@ This project uses OpenCV and a hand tracking module to control the system volume
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abdelrhmanidk/Gesture-Volume-control
+   git clone https://github.com/abdelrhmanidk/Gesture-Volume-control.git
    cd Gesture-Volume-control
